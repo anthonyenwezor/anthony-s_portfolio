@@ -1,2 +1,2 @@
-# anthony-s_portfolio
+# anthony-s_projects
 Analytics Portfolio
